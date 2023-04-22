@@ -1,7 +1,7 @@
 ---
-layout: post
-title: "ざっくり分かるファイナンス 経営センスを磨くための財務"
-date: 2020-07-04 00:00:00 +0900
+layout:     post
+title:      "ざっくり分かるファイナンス 経営センスを磨くための財務"
+date:       2020-07-04 00:00:00 +0900
 categories: biz-eco rdg-mem
 ---
 
