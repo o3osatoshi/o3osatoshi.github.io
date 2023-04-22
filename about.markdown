@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-# Me
+## Me
 crypto  / engineer / minimalist / board game
 
-# Location
+## Location
 Tokyo
