@@ -1,0 +1,16 @@
+{
+  "name": "o3osatoshi.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/o3osatoshi/o3osatoshi.github.io.git",
+  "author": "Satoshi Ogura <117020745+o3osatoshi@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.2"
+  },
+  "dependencies": {
+    "postcss-import": "^15.1.0"
+  }
+}
