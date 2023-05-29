@@ -57,7 +57,7 @@ categories: biz-eco rdg-mem
 |資産|資金の運用方法|預金・現金、有価証券、有形固定資産、無形固定資産、棚卸資産、受取手形、売掛金|実践|
 
 ##### 財務鳥瞰図
-<embed src="/assets/2020-07-04-zakkuri-wakaru-finance/birds‐eye-view.pdf" type="application/pdf" height="650"/>
+<embed src="/assets/2020-07-04-zakkuri-wakaru-finance/birds‐eye-view.pdf" type="application/pdf" height="400"/>
 
 ##### 損益計算書
 ![profit‐and‐loss-statement](/assets/2020-07-04-zakkuri-wakaru-finance/profit‐and‐loss-statement.png)
