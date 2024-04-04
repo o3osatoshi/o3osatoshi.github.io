@@ -23,8 +23,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   crypto  / engineer / minimalist / board game
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://o3osatoshi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: o3osatoshi
-github_username: o3osatoshi
 
 markdown: kramdown
 permalink: /:categories/:title
@@ -32,6 +30,10 @@ permalink: /:categories/:title
 # Build settings
 # theme: minima
 remote_theme: o3osatoshi/minima
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
+    - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
