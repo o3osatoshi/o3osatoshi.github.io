@@ -140,7 +140,6 @@ in-line \\(y = α + βx \\) in-line
 `&`により表示位置揃え
 ##### MathJax
 ```
-{% raw %}
 $$
 \begin{align}
     \cos 2\theta &= \cos^{2} \theta - \sin^{2} \theta \\\\
@@ -148,10 +147,9 @@ $$
         &= 1 - 2\sin^{2} \theta
 \end{align}
 $$
-{% endraw %}
 ```
 ##### 表示
-{% raw %}
+
 $$
 \begin{align}
     \cos 2\theta &= \cos^{2} \theta - \sin^{2} \theta \\\\
@@ -159,7 +157,6 @@ $$
         &= 1 - 2\sin^{2} \theta
 \end{align}
 $$
-{% endraw %}
 
 ### 等号
 
