@@ -28,8 +28,8 @@ markdown: kramdown
 permalink: /:categories/:title
 
 # Build settings
-# theme: minima
-remote_theme: o3osatoshi/minima
+theme: minima
+#remote_theme: o3osatoshi/minima
 minima:
   social_links:
     - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
