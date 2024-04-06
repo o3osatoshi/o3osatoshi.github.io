@@ -2,7 +2,7 @@
 layout:     post
 title:      "最強の早期リタイア術"
 date:       2020-07-27 00:00:00 +0900
-categories: biz-eco rdg-mem
+categories: money memo
 ---
 
 ![thumbnail](/assets/2020-07-27-saikyou-no-souki-ritaia-zyutu/thumbnail.png)

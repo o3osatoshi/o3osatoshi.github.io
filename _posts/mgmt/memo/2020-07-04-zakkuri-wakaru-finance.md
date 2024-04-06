@@ -2,7 +2,7 @@
 layout:     post
 title:      "ざっくり分かるファイナンス 経営センスを磨くための財務"
 date:       2020-07-04 00:00:00 +0900
-categories: biz-eco rdg-mem
+categories: mgmt memo
 ---
 
 ![thumbnail](/assets/2020-07-04-zakkuri-wakaru-finance/thumbnail.png)

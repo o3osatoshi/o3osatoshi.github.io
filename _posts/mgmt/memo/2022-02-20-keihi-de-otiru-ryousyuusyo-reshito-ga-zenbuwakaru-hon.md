@@ -2,7 +2,7 @@
 layout:     post
 title:      "経費で落ちる領収書・レシートがぜんぶわかる本"
 date:       2022-02-20 00:00:00 +0900
-categories: biz-eco rdg-mem
+categories: mgmt memo
 ---
 
 ![thumbnail](/assets/2022-02-20-keihi-de-otiru-ryousyuusyo-reshito-ga-zenbuwakaru-hon/thumbnail.png)

@@ -2,7 +2,7 @@
 layout:     post
 title:      "さおだけ屋はなぜ潰れないのか？"
 date:       2020-08-09 00:00:00 +0900
-categories: biz-eco rdg-mem
+categories: mgmt memo
 ---
 
 ![thumbnail](/assets/2020-08-09-saodakeya-ha-naze-tsuburenai-noka/thumbnail.png)

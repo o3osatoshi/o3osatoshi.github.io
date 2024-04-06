@@ -2,7 +2,7 @@
 layout:     post
 title:      "エンジニアが学ぶ会計システムの知識と技術"
 date:       2020-08-10 00:00:00 +0900
-categories: biz-eco rdg-mem
+categories: mgmt memo
 ---
 
 ![thumbnail](/assets/2020-08-10-enjinia-ga-manabu-kaikei-shisutemu-no-chishiki-to-gijutsu/thumbnail.png)

@@ -2,7 +2,7 @@
 layout:     post
 title:      "MathJaxチートシート"
 date:       2020-06-28 00:00:00 +0900
-categories: a b
+categories: hobby blog
 ---
 
 ![thumbnail](/assets/2020-06-28-mathjax-cheat-sheet/mathjax-logo.png)

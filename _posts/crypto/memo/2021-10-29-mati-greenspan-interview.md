@@ -2,7 +2,7 @@
 layout:     post
 title:      "Mati Greenspan インタビュー"
 date:       2021-10-29 00:00:00 +0900
-categories: biz-eco rdg-mem
+categories: crypto memo
 ---
 
 ![thumbnail](/assets/2021-10-29-mati-greenspan-interview/thumbnail.png)

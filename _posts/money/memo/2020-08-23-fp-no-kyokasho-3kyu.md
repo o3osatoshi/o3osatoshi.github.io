@@ -2,7 +2,7 @@
 layout:     post
 title:      "FPの教科書 3級"
 date:       2020-08-23 00:00:00 +0900
-categories: biz-eco rdg-mem
+categories: money memo
 ---
 
 ![thumbnail](/assets/2020-08-23-fp-no-kyokasho-3kyu/thumbnail.png)

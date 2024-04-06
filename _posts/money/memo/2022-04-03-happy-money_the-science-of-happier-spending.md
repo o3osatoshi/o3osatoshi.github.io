@@ -2,7 +2,7 @@
 layout:     post
 title:      "「幸せをお金で買う」5つの授業"
 date:       2022-04-03 00:00:00 +0900
-categories: biz-eco rdg-mem
+categories: money memo
 ---
 
 ![thumbnail](/assets/2022-04-03-happy-money_the-science-of-happier-spending/thumbnail.png)

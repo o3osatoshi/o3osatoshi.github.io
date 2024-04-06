@@ -2,7 +2,7 @@
 layout:     post
 title:      "1分で話せ"
 date:       2020-07-26 00:00:00 +0900
-categories: biz-eco rdg-mem
+categories: biz memo
 ---
 
 ![thumbnail](/assets/2020-07-26-ippunn-de-hanase/thumbnail.png)

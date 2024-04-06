@@ -2,7 +2,7 @@
 layout:     post
 title:      "稲盛和夫の実学"
 date:       2020-09-22 00:00:00 +0900
-categories: biz-eco rdg-mem
+categories: mgmt memo
 ---
 
 ![thumbnail](/assets/2020-09-22-inamori-kazuo-no-jitsugaku/thumbnail.png)

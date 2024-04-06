@@ -2,7 +2,7 @@
 layout:     post
 title:      "ビジネス会計検定試験　公式テキスト 3級"
 date:       2021-01-04 00:00:00 +0900
-categories: biz-eco rdg-mem
+categories: mgmt memo
 ---
 
 ![thumbnail](/assets/2021-01-04-bijinesu-kaikei-kentei-shiken-koshiki-tekisuto-sankyu/thumbnail.png)

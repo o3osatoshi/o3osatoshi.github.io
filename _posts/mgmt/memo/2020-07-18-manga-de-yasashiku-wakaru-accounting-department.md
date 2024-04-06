@@ -2,7 +2,7 @@
 layout:     post
 title:      "マンガでやさしくわかる経理の仕事"
 date:       2020-07-18 00:00:00 +0900
-categories: biz-eco rdg-mem
+categories: mgmt memo
 ---
 
 ![thumbnail](/assets/2020-07-18-manga-de-yasashiku-wakaru-accounting-department/thumbnail.png)

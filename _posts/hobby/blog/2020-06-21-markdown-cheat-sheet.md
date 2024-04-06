@@ -2,7 +2,7 @@
 layout:     post
 title:      "マークダウンチートシート"
 date:       2020-06-21 00:00:00 +0900
-categories: a b
+categories: hobby blog
 ---
 
 ![thumbnail](/assets/2020-06-21-markdown-cheat-sheet/markdown-logo.png)

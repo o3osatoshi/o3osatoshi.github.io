@@ -2,7 +2,7 @@
 layout:     post
 title:      "すごい自己紹介"
 date:       2020-10-11 00:00:00 +0900
-categories: biz-eco rdg-mem
+categories: life memo
 ---
 
 ![thumbnail](/assets/2020-10-11-sugoi-jikoshokai/thumbnail.png)

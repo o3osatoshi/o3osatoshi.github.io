@@ -2,7 +2,7 @@
 layout:     post
 title:      "夢をかなえるゾウ１"
 date:       2021-06-16 00:00:00 +0900
-categories: biz-eco rdg-mem
+categories: life memo
 ---
 
 ![thumbnail](/assets/2021-06-16-yume-wo-kanaeruzo-1/thumbnail.png)
