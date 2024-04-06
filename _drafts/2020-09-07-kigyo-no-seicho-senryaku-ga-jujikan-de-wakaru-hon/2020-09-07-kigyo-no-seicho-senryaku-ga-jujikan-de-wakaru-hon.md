@@ -1,4 +1,4 @@
-![thumbnail](/drafts/2020-09-07-kigyo-no-seicho-senryaku-ga-jujikan-de-wakaru-hon/thumbnail.png)
+![thumbnail](/_drafts/2020-09-07-kigyo-no-seicho-senryaku-ga-jujikan-de-wakaru-hon/thumbnail.png)
 
 ※本ブログの目的と内容[^1]、著作者の方へ[^2]
 
