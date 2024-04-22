@@ -414,7 +414,7 @@ const names = users.map((u: User): string => u.name);
 コールバック関数は多くの場合、引数の型を書かなくてもよい。
 
 ##### 関数型の記法
-`(引数リスト) => 戻り値の型`  
+`(引数リスト) => 返り値の型`  
 関数型中の引数名は、エディタの支援機能を充実させるために存在する。
 
 ##### 返り値の型注釈は省略すべきか
@@ -423,7 +423,31 @@ const names = users.map((u: User): string => u.name);
 ### 関数型の部分型
 TSでは、型に合わせてプロパティ等が削られることはない。
 
-**図**
+#### 引数と返り値の型による部分型関係
+
+![structural-subtype](/assets/2024-04-14-Introduction-to-TypeScript-for-future-professionals/structural-subtype.png)
+
+```typescript
+type HasName = {
+  name: string;
+};
+type HasNameAndAge = {
+  name: string;
+  age: number;
+};
+
+// 返り値の型による部分型関係
+const fromAge = (age: number): HasNameAndAge => {
+  return { name: "Taro", age };
+};
+const f: (age: number) => HasName = fromAge;
+
+// 引数の型による部分型関係
+const showName = (obj: HasName): void => {
+  console.log(obj.name);
+};
+const g: (obj: HasNameAndAge) => void = showName;
+```
 
 ##### 引数の配列
 `T[]`型を受け取る関数に、`readonly T[]`型を渡すことはできない。
