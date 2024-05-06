@@ -1,0 +1,133 @@
+<mxfile host="65bd71144e">
+    <diagram id="McNc2lneoWFxfL_IEdaN" name="Page-1">
+        <mxGraphModel dx="2026" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="170" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="710" y="170" width="190" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" style="edgeStyle=none;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="REP&lt;br&gt;再利用性のための&lt;br&gt;グループ化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="140" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" style="edgeStyle=none;html=1;startArrow=classic;startFill=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="CCP&lt;br&gt;保守性のための&lt;br&gt;グループ化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="140" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="CRP&lt;br&gt;不要なリリース作業を&lt;br&gt;減らすための分割" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="260" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="不要なリリース作業の増加" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="130" width="160" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="再利用性の低下" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="235" width="95" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="変更すべきコンポーネントの増加" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="305" y="230" width="105" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="プロジェクト&lt;br&gt;初期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="プロジェクト&lt;br&gt;後期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="560" y="70" as="sourcePoint"/>
+                        <mxPoint x="420" y="70" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="再利用可能&lt;br&gt;コードA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="180" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="再利用可能&lt;br&gt;コードB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="720" y="230" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="再利用不可&lt;br&gt;コードA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="810" y="180" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="再利用不可&lt;br&gt;コードB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="810" y="230" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="コンポーネント" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="745" y="140" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="360" width="190" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="再利用可能&lt;br&gt;コードA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="370" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="再利用不可&lt;br&gt;コードA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="370" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="コンポーネントA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="325" y="330" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="360" width="190" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="再利用可能&lt;br&gt;コードB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="370" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="再利用不可&lt;br&gt;コードB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="370" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="コンポーネントB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="535" y="330" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="" style="edgeStyle=none;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="37" target="40">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="170" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="再利用可能&lt;br&gt;コードA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="180" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="再利用不可&lt;br&gt;コードA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="180" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="再利用可能&lt;br&gt;コンポーネントA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="140" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="再利用不可&lt;br&gt;コンポーネントA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="140" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="280" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="" style="edgeStyle=none;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="53" target="56">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="280" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="再利用可能&lt;br&gt;コードB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="290" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="再利用不可&lt;br&gt;コードB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="290" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="再利用可能&lt;br&gt;コンポーネントB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="250" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="再利用不可&lt;br&gt;コンポーネントB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="250" width="120" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
