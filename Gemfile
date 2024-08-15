@@ -15,8 +15,8 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
-  gem "jekyll-remote-theme"
+  gem "jekyll-feed", "~> 0.17.0"
+  gem "jekyll-remote-theme", "~> 0.4.3"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -35,3 +35,8 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Local
 gem "webrick"
+
+# new ruby version
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'
