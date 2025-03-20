@@ -20,7 +20,7 @@
 
 title: o3osatoshi's website
 description: >- # this means to ignore newlines until "baseurl:"
-  crypto  / engineer / minimalist / board game
+  Frontend / 0 to 1 / Crypto / DeFi / CRM
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://o3osatoshi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
